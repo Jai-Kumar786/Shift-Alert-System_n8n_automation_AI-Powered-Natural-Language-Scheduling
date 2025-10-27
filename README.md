@@ -277,7 +277,7 @@ Create `.env` file in project root:
 
 ```bash
 # Telegram Bot
-TELEGRAM_BOT_TOKEN=8296200390:AAGA3kcGIWy1RlyQJ_oOmNQmes1v42BKwrI
+TELEGRAM_BOT_TOKEN=yourtoken
 
 # Google Sheets
 GOOGLE_SHEETS_SPREADSHEET_ID=your_spreadsheet_id
